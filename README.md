@@ -2,7 +2,7 @@
 
 This project detects fraudulent credit card transactions using a machine learning model (XGBoost) and provides real-time predictions through a user-friendly Streamlit web app.
 
-🔗 **Live App**: [Click to Try It](https://sujithra-g-creditcard-fraud-detection-app-yb33jo.streamlit.app/)
+
 
 ---
 
